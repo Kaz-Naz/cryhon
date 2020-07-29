@@ -1,3 +1,4 @@
+ミラーサイト、ミラーリポジタリです。元は　https://github.com/NZRI-AZRI　です
 crybon
 crypto-bon-ozotp CRYBON or CRYHON is ethereum-web3 based one time passward login and contens viewer app. In this text, otp is one time passward .
 
